@@ -1,9 +1,5 @@
 # ![kaino](https://media-exp1.licdn.com/dms/image/C5616AQHENJndD4RwcQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1600300800&v=beta&t=DMqv243CB8gKSEXC3fCzpnFTEuHQzBokqdCU1UhVJbU)
 
-### Salut 👋
-
-Humm ouais..
-
 <p align='center'>
   <a href="#"></a>&nbsp;&nbsp;
 
