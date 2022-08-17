@@ -13,6 +13,8 @@
   <img align="left" alt="Debian" title="Debian" width="32px" src="https://i.imgur.com/SmRUg4T.png" />
   <img align="left" alt="CSS" title="CSS" width="32px" src="https://i.imgur.com/QHLgV6G.png" />
   <img align="left" alt="JS" title="JS" width="32px" src="https://i.imgur.com/q3vOyHz.png" />
+</div><br><br>
+<div style="display: flex; align-items: center;">
   <img align="left" alt="MySQL" title="MySQL" width="32px" src="https://i.imgur.com/n5nTzRn.png" />
   <img align="left" alt="Git" title="Git" width="32px" src="https://i.imgur.com/anjyDqZ.png" />
   <img align="left" alt="Docker" title="Docker" width="32px" src="https://i.imgur.com/XbFFWZ9.png" />
@@ -22,5 +24,4 @@
   <img align="left" alt="React" title="React" width="32px" src="https://i.imgur.com/3LhNMfr.png" />
   <img align="left" alt="NextJS" title="NextJS" width="32px" src="https://i.imgur.com/CnFMkCK.png" />
   <img align="left" alt="PHP" title="PHP" width="32px" src="https://i.imgur.com/T4M9rgs.png" />
- 
 </div><br><br>
