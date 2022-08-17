@@ -1,4 +1,4 @@
-<img align="center" alt="dynamored.com" width="100%" src="" />
+<img align="center" alt="" width="100%" src="" />
 
 <br />
 
