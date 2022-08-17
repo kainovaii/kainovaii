@@ -26,4 +26,5 @@
 </div><br><br>
 <div style="display: flex; align-items: center;">
   <img align="left" alt="PHP" title="PHP" width="32px" src="https://i.imgur.com/T4M9rgs.png" />
+  <img align="left" alt="NodeJS" title="NodeJS" width="32px" src="https://i.imgur.com/sVa8V0l.png" />
 </div><br><br>
