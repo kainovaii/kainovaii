@@ -23,5 +23,7 @@
   <img align="left" alt="Bootstrap" title="Bootstrap" width="32px" src="https://i.imgur.com/gGSgp6H.png" />
   <img align="left" alt="React" title="React" width="32px" src="https://i.imgur.com/3LhNMfr.png" />
   <img align="left" alt="NextJS" title="NextJS" width="32px" src="https://i.imgur.com/CnFMkCK.png" />
+</div><br><br>
+<div style="display: flex; align-items: center;">
   <img align="left" alt="PHP" title="PHP" width="32px" src="https://i.imgur.com/T4M9rgs.png" />
 </div><br><br>
