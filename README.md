@@ -1,4 +1,4 @@
-<img align="center" alt="dynamored.com" width="100%" src="https://cdn.dynamored.com/resources/branding/banner.png" />
+<img align="center" alt="dynamored.com" width="100%" src="" />
 
 <br />
 
