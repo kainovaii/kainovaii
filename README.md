@@ -23,9 +23,6 @@
   <a href="https://www.linkedin.com/in/kainovaii">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/>
   </a>
-  <a href="https://www.youtube.com/@kainovaii_dev">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1b27"/>
-  </a>
   <a href="https://github.com/kainovaii">
     <img src="https://img.shields.io/github/followers/kainovaii?label=Followers&style=for-the-badge&logo=github&labelColor=1a1b27&color=a277ff"/>
   </a>
