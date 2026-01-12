@@ -6,7 +6,7 @@
 <!-- Logo -->
 <img src="https://raw.githubusercontent.com/kainovaii/Portfolio/refs/heads/main/src/main/resources/assets/img/favicon.png" alt="KainoVaii Logo" width="100"/>
 
-<br/><br/>
+<br/>
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
