@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,6,11,20&height=200&section=header&animation=twinkling"/>
 
 <!-- Logo -->
-<img src="./logo.png" alt="KainoVaii Logo" width="600"/>
+<img src="./logo.png" alt="KainoVaii Logo" width="300"/>
 
 <br/><br/>
 
