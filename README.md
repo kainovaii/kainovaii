@@ -209,18 +209,6 @@ Contributing to the Obsidian-PHP framework ecosystem.
 
 <br/>
 
-## 🤝 Organizations
-
-<div align="center">
-
-[![Itomori](https://img.shields.io/badge/🏢_Itomori-Organization-ff6b9d?style=for-the-badge&labelColor=1a1b27)](https://github.com/Itomori-fr)
-[![SyperCraft](https://img.shields.io/badge/⛏️_SyperCraft-Minecraft_Server-a277ff?style=for-the-badge&labelColor=1a1b27)](https://github.com/SyperCraft-mc)
-[![Obsidian PHP](https://img.shields.io/badge/🔷_Obsidian_PHP-Framework-61dafb?style=for-the-badge&labelColor=1a1b27)](https://github.com/Obsidian-PHP)
-
-</div>
-
-<br/>
-
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
