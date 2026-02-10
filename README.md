@@ -42,39 +42,6 @@
 
 <br/>
 
-## 🎯 About Me
-
-```typescript
-class Developer {
-  name: string = "KainoVaii (カイノヴァイイ)";
-  location: string = "France 🇫🇷";
-  role: string = "Back-End Developer";
-  
-  workingOn: string[] = [
-    "Building scalable backend systems",
-    "Minecraft server plugins & tools",
-    "Open-source contributions",
-    "DevOps automation"
-  ];
-  
-  skills: {
-    backend: string[] = ["Java", "PHP", "Spring Boot", "Laravel", "Symfony"];
-    databases: string[] = ["MySQL", "PostgreSQL", "MongoDB", "Redis"];
-    devops: string[] = ["Docker", "Proxmox VE", "Linux"];
-    tools: string[] = ["Git", "GitHub", "GitLab", "Bitbucket"];
-  };
-  
-  funFact: string = "I develop solutions in my spare time with passion ☕";
-}
-```
-
-<br/>
-
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
