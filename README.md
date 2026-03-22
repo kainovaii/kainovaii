@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/logo_purple.png" alt="KainoVaii Logo" width="150"/>
 
 <br/>
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
