@@ -1,15 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,6,11,20&height=200&section=header&animation=twinkling"/>
 <img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/logo_purple.png" alt="KainoVaii Logo" width="150"/>
-<br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=1000&color=451EA4&width=435&lines=Java+specialist;Open+source+developer;Back+end+developer" alt="Typing SVG" />
-</a>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=kainovaii&color=ff6b9d&style=for-the-badge&label=PROFILE+VIEWS"/>
-</div>
-
-<br/>
 
 <div align="center">
 
