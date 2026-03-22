@@ -8,8 +8,9 @@
 
 <br/>
 
-<!-- Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=451EA4&width=435&lines=Java+specialist;Open+source+developer;Back+end+developer)](https://git.io/typing-svg)
+<center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=451EA4&width=435&lines=Java+specialist;Open+source+developer;Back+end+developer" alt="Typing SVG" /></a>
+</center>
 
 <br/>
 
