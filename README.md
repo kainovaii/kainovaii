@@ -4,8 +4,6 @@
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
 ![](https://github-readme-stats.vercel.app/api?username=kainovaii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kainovaii&theme=tokyonight&hide_border=true)
 
