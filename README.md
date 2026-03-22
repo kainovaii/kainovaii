@@ -9,9 +9,7 @@
 <br/>
 
 <!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Back-End+Developer+%F0%9F%9A%80;Java+%26+PHP+Specialist+%F0%9F%92%BB;Open+Source+Contributor+%E2%AD%90" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=451EA4&width=435&lines=Java+specialist;Open+source+developer;Back+end+developer)](https://git.io/typing-svg)
 
 <br/>
 
