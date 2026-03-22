@@ -2,6 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,6,11,20&height=200&section=header&animation=twinkling"/>
 <img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/logo_purple.png" alt="KainoVaii Logo" width="150"/>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
