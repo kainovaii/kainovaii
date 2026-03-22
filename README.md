@@ -27,6 +27,10 @@
 
 <div align="center">
 
+<br/>
+<br/>
+<br/>
+
 I'm always open to interesting conversations and collaboration opportunities!
 <br/>
 <a href="https://kainovaii.dev">
