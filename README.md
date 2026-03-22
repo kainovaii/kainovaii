@@ -27,8 +27,6 @@
 
 <div align="center">
 
-## 📫 Let's Connect!
-
 I'm always open to interesting conversations and collaboration opportunities!
 <br/>
 <a href="https://kainovaii.dev">
