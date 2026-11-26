@@ -1,12 +1,12 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/header.svg"/>
-<img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/logo.png" alt="KainoVaii Logo" width="150"/>
+<img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/logo.png" alt="KainoVaii Logo" width="130"/>
 
 <br/>
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/divider.svg" width="800">
+<img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/divider.svg" width="760">
 
 <br/>
 <br/>
