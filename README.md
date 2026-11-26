@@ -20,7 +20,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <img src="./divider.svg" width="700">
 
