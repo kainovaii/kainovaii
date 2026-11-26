@@ -21,6 +21,6 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/footer"/>
+<img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/footer.svg"/>
 
 </div>
