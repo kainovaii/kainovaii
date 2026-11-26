@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,6,11,20&height=200&section=header&animation=twinkling"/>
-<img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/logo.png" alt="KainoVaii Logo" width="150"/>
+<img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/divider-large.png" alt="KainoVaii Logo" width="150"/>
 
 <br/>
 <br/>
