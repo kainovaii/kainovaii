@@ -15,8 +15,8 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=kainovaii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kainovaii&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=kainovaii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="450" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kainovaii&theme=tokyonight&hide_border=true" width="450" />
 
 </div>
 
