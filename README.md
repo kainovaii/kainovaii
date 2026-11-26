@@ -32,7 +32,7 @@
     <img src="./portfolio-btn.svg" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://obsidian-java.com/" target="_blank">
+  <a href="https://github.com/obsidian-framework" target="_blank">
     <img src="./obsidian-btn.svg" alt="Obsidian" />
   </a>
 </p>
