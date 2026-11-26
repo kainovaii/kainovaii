@@ -1,81 +1,81 @@
 <svg width="260" height="64" viewBox="0 0 260 64" xmlns="http://www.w3.org/2000/svg">
   <defs>
     
-    <linearGradient id="btn-bg" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#5a189a" />
-      <stop offset="55%" stop-color="#3c096c" />
-      <stop offset="100%" stop-color="#240747" />
+    <linearGradient id="obs-btn-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#EF4444" />
+      <stop offset="55%" stop-color="#B91C1C" />
+      <stop offset="100%" stop-color="#7F1D1D" />
     </linearGradient>
 
     
-    <g id="btn-spark">
-      <rect x="2" y="0" width="2" height="6" fill="#e0aaff" />
-      <rect x="0" y="2" width="6" height="2" fill="#e0aaff" />
-      <rect x="2" y="2" width="2" height="2" fill="#ffffff" />
+    <g id="obs-btn-spark">
+      <rect x="2" y="0" width="2" height="6" fill="#FCA5A5" />
+      <rect x="0" y="2" width="6" height="2" fill="#FCA5A5" />
+      <rect x="2" y="2" width="2" height="2" fill="#FFFFFF" />
     </g>
   </defs>
 
   <style>
-    .arrow-move {
-      animation: arrow-nudge 1.6s steps(2, end) infinite;
+    .obs-arrow-move {
+      animation: obs-arrow-nudge 1.6s steps(2, end) infinite;
     }
-    .spark-1 {
-      animation: btn-twinkle 2.4s steps(2, end) infinite;
+    .obs-spark-1 {
+      animation: obs-btn-twinkle 2.4s steps(2, end) infinite;
     }
-    .spark-2 {
-      animation: btn-twinkle 3.2s steps(2, end) infinite 0.9s;
+    .obs-spark-2 {
+      animation: obs-btn-twinkle 3.2s steps(2, end) infinite 0.9s;
     }
-    @keyframes arrow-nudge {
+    @keyframes obs-arrow-nudge {
       0%, 100% { transform: translateX(0px); }
       50% { transform: translateX(4px); }
     }
-    @keyframes btn-twinkle {
+    @keyframes obs-btn-twinkle {
       0%, 100% { opacity: 1; }
       50% { opacity: 0.25; }
     }
   </style>
 
   
-  <path fill="#140429" d="
+  <path fill="#450A0A" d="
       M 12 12 H 248 V 16 H 252 V 52 H 248 V 56 H 12 V 52 H 8 V 16 H 12 Z
     " />
 
   
-  <path fill="#9d4edd" d="
+  <path fill="#F87171" d="
       M 12 8 H 248 V 12 H 252 V 48 H 248 V 52 H 12 V 48 H 8 V 12 H 12 Z
     " />
 
   
-  <path fill="url(#btn-bg)" d="
+  <path fill="url(#obs-btn-bg)" d="
       M 14 12 H 246 V 14 H 248 V 46 H 246 V 48 H 14 V 46 H 12 V 14 H 14 Z
     " />
 
   
-  <rect x="14" y="12" width="232" height="3" fill="#e0aaff" opacity="0.85" />
-  <rect x="12" y="14" width="2" height="30" fill="#c77dff" opacity="0.5" />
+  <rect x="14" y="12" width="232" height="3" fill="#FECACA" opacity="0.85" />
+  <rect x="12" y="14" width="2" height="30" fill="#FCA5A5" opacity="0.55" />
 
   
-  <rect x="14" y="45" width="232" height="3" fill="#140429" opacity="0.8" />
+  <rect x="14" y="45" width="232" height="3" fill="#450A0A" opacity="0.85" />
 
   
   <g transform="translate(24, 22)">
-    <rect x="6" y="0" width="4" height="16" fill="#c77dff" />
-    <rect x="2" y="4" width="12" height="8" fill="#e0aaff" />
-    <rect x="6" y="6" width="4" height="4" fill="#ffffff" />
+    <rect x="6" y="0" width="4" height="16" fill="#FCA5A5" />
+    <rect x="2" y="4" width="12" height="8" fill="#FECACA" />
+    <rect x="6" y="6" width="4" height="4" fill="#FFFFFF" />
   </g>
 
   
-  <text x="126" y="35" text-anchor="middle" fill="#ffffff" font-family="&#39;Courier New&#39;, Courier, monospace" font-weight="bold" font-size="18" letter-spacing="3">PORTFOLIO</text>
+  <text x="128" y="35" text-anchor="middle" fill="#FFFFFF" font-family="&#39;Courier New&#39;, Courier, monospace" font-weight="bold" font-size="18" letter-spacing="3">OBSIDIAN</text>
 
   
-  <g class="arrow-move" fill="#e0aaff">
+  <g class="obs-arrow-move" fill="#FECACA">
     <rect x="212" y="28" width="12" height="4" />
-    <rect x="218" y="22" width="4" height="4" fill="#ffffff" />
-    <rect x="222" y="26" width="4" height="8" fill="#ffffff" />
-    <rect x="218" y="34" width="4" height="4" fill="#ffffff" />
+    <rect x="218" y="22" width="4" height="4" fill="#FFFFFF" />
+    <rect x="222" y="26" width="4" height="8" fill="#FFFFFF" />
+    <rect x="218" y="34" width="4" height="4" fill="#FFFFFF" />
   </g>
 
   
-  <use href="#btn-spark" x="4" y="4" class="spark-1" />
-  <use href="#btn-spark" x="248" y="50" class="spark-2" />
+  <use href="#obs-btn-spark" x="4" y="4" class="obs-spark-1" />
+  <use href="#obs-btn-spark" x="248" y="50" class="obs-spark-2" />
 </svg>
