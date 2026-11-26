@@ -13,14 +13,16 @@
 <br/>
 
 
-<div align="center">
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kainovaii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=420" width="420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kainovaii&theme=tokyonight&hide_border=true&card_width=370" width="370" />
-</p>
-
-</div>
+<table>
+  <tr valign="middle">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kainovaii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kainovaii&theme=tokyonight&hide_border=true" width="360" />
+    </td>
+  </tr>
+</table>
 
 
 <img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/footer.svg"/>
