@@ -13,9 +13,9 @@
 <br/>
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kainovaii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="430" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kainovaii&theme=tokyonight&hide_border=true" width="350" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kainovaii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kainovaii&theme=tokyonight&hide_border=true" width="450" />
 </p>
 
 <img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/footer.svg"/>
