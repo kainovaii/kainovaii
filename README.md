@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,6,11,20&height=200&section=header&animation=twinkling"/>
+<img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/header.svg"/>
 <img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/logo.png" alt="KainoVaii Logo" width="150"/>
 
 <br/>
@@ -21,6 +21,6 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,6,11,20&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/footer"/>
 
 </div>
