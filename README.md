@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/divider.svg">
+<img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/divider.svg" width="150">
 
 <br/>
 <br/>
