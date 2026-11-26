@@ -1,14 +1,6 @@
-<svg width="854" height="64" viewBox="0 0 854 64" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="64" viewBox="0 0 1200 64" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="div-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#240747" />
-      <stop offset="25%" stop-color="#5a189a" />
-      <stop offset="50%" stop-color="#c77dff" />
-      <stop offset="75%" stop-color="#5a189a" />
-      <stop offset="100%" stop-color="#240747" />
-    </linearGradient>
-
-    <g id="div-sparkle">
+    <g id="div-sparkle-wide">
       <rect x="4" y="0" width="4" height="12" fill="#e0aaff" />
       <rect x="0" y="4" width="12" height="4" fill="#e0aaff" />
       <rect x="4" y="4" width="4" height="4" fill="#ffffff" />
@@ -16,21 +8,21 @@
   </defs>
 
   <style>
-    .pulse-gem {
-      transform-origin: 427px 32px;
-      animation: gem-beat 3.6s steps(4, end) infinite;
+    .pulse-gem-wide {
+      transform-origin: 600px 32px;
+      animation: gem-beat-wide 3.6s steps(4, end) infinite;
     }
     .twinkle-a {
-      animation: div-blink 2.8s steps(2, end) infinite;
+      animation: div-blink-wide 2.8s steps(2, end) infinite;
     }
     .twinkle-b {
-      animation: div-blink 3.8s steps(2, end) infinite 1.2s;
+      animation: div-blink-wide 3.8s steps(2, end) infinite 1.2s;
     }
-    @keyframes gem-beat {
+    @keyframes gem-beat-wide {
       0%, 100% { transform: scale(1); }
       50% { transform: scale(1.12); }
     }
-    @keyframes div-blink {
+    @keyframes div-blink-wide {
       0%, 100% { opacity: 1; }
       50% { opacity: 0.25; }
     }
@@ -38,53 +30,59 @@
 
   
   <g>
-    <rect x="32" y="30" width="356" height="4" fill="#240747" />
-    <rect x="96" y="26" width="292" height="12" fill="#3c096c" />
-    <rect x="168" y="28" width="220" height="8" fill="#5a189a" />
-    <rect x="248" y="30" width="140" height="4" fill="#e0aaff" />
+    <rect x="16" y="30" width="544" height="4" fill="#240747" />
+    <rect x="88" y="26" width="472" height="12" fill="#3c096c" />
+    <rect x="180" y="28" width="380" height="8" fill="#5a189a" />
+    <rect x="310" y="30" width="250" height="4" fill="#e0aaff" />
     
-    <rect x="156" y="24" width="12" height="16" fill="#240747" />
-    <rect x="160" y="28" width="4" height="8" fill="#e0aaff" />
-    <rect x="296" y="24" width="12" height="16" fill="#240747" />
-    <rect x="300" y="28" width="4" height="8" fill="#ffffff" />
+    <rect x="132" y="24" width="12" height="16" fill="#240747" />
+    <rect x="136" y="28" width="4" height="8" fill="#e0aaff" />
+    <rect x="276" y="24" width="12" height="16" fill="#240747" />
+    <rect x="280" y="28" width="4" height="8" fill="#ffffff" />
+    <rect x="440" y="24" width="12" height="16" fill="#240747" />
+    <rect x="444" y="28" width="4" height="8" fill="#e0aaff" />
   </g>
 
   
   <g>
-    <rect x="466" y="30" width="356" height="4" fill="#240747" />
-    <rect x="466" y="26" width="292" height="12" fill="#3c096c" />
-    <rect x="466" y="28" width="220" height="8" fill="#5a189a" />
-    <rect x="466" y="30" width="140" height="4" fill="#e0aaff" />
+    <rect x="640" y="30" width="544" height="4" fill="#240747" />
+    <rect x="640" y="26" width="472" height="12" fill="#3c096c" />
+    <rect x="640" y="28" width="380" height="8" fill="#5a189a" />
+    <rect x="640" y="30" width="250" height="4" fill="#e0aaff" />
     
-    <rect x="686" y="24" width="12" height="16" fill="#240747" />
-    <rect x="690" y="28" width="4" height="8" fill="#e0aaff" />
-    <rect x="546" y="24" width="12" height="16" fill="#240747" />
-    <rect x="550" y="28" width="4" height="8" fill="#ffffff" />
+    <rect x="1056" y="24" width="12" height="16" fill="#240747" />
+    <rect x="1060" y="28" width="4" height="8" fill="#e0aaff" />
+    <rect x="912" y="24" width="12" height="16" fill="#240747" />
+    <rect x="916" y="28" width="4" height="8" fill="#ffffff" />
+    <rect x="748" y="24" width="12" height="16" fill="#240747" />
+    <rect x="752" y="28" width="4" height="8" fill="#e0aaff" />
   </g>
 
   
-  <g class="pulse-gem">
+  <g class="pulse-gem-wide">
     
-    <rect x="423" y="12" width="8" height="40" fill="#140429" />
-    <rect x="415" y="16" width="24" height="32" fill="#140429" />
-    <rect x="411" y="20" width="32" height="24" fill="#140429" />
-    <rect x="407" y="24" width="40" height="16" fill="#140429" />
-    <rect x="403" y="28" width="48" height="8" fill="#140429" />
+    <rect x="596" y="12" width="8" height="40" fill="#140429" />
+    <rect x="588" y="16" width="24" height="32" fill="#140429" />
+    <rect x="584" y="20" width="32" height="24" fill="#140429" />
+    <rect x="580" y="24" width="40" height="16" fill="#140429" />
+    <rect x="576" y="28" width="48" height="8" fill="#140429" />
     
-    <rect x="423" y="16" width="8" height="32" fill="#7b2cbf" />
-    <rect x="415" y="20" width="24" height="24" fill="#9d4edd" />
-    <rect x="411" y="24" width="32" height="16" fill="#c77dff" />
-    <rect x="407" y="28" width="40" height="8" fill="#e0aaff" />
+    <rect x="596" y="16" width="8" height="32" fill="#7b2cbf" />
+    <rect x="588" y="20" width="24" height="24" fill="#9d4edd" />
+    <rect x="584" y="24" width="32" height="16" fill="#c77dff" />
+    <rect x="580" y="28" width="40" height="8" fill="#e0aaff" />
     
-    <rect x="425" y="20" width="4" height="24" fill="#ffffff" />
-    <rect x="415" y="30" width="24" height="4" fill="#ffffff" />
+    <rect x="598" y="20" width="4" height="24" fill="#ffffff" />
+    <rect x="588" y="30" width="24" height="4" fill="#ffffff" />
   </g>
 
   
-  <use href="#div-sparkle" x="220" y="6" class="twinkle-a" />
-  <use href="#div-sparkle" x="622" y="46" class="twinkle-b" />
+  <use href="#div-sparkle-wide" x="220" y="6" class="twinkle-a" />
+  <use href="#div-sparkle-wide" x="968" y="46" class="twinkle-b" />
+  <use href="#div-sparkle-wide" x="490" y="46" class="twinkle-b" />
+  <use href="#div-sparkle-wide" x="698" y="6" class="twinkle-a" />
   <rect x="372" y="14" width="4" height="4" fill="#e0aaff" class="twinkle-b" />
-  <rect x="478" y="46" width="4" height="4" fill="#e0aaff" class="twinkle-a" />
-  <rect x="118" y="44" width="4" height="4" fill="#c77dff" class="twinkle-a" />
-  <rect x="732" y="16" width="4" height="4" fill="#c77dff" class="twinkle-b" />
+  <rect x="824" y="46" width="4" height="4" fill="#e0aaff" class="twinkle-a" />
+  <rect x="104" y="44" width="4" height="4" fill="#c77dff" class="twinkle-a" />
+  <rect x="1092" y="16" width="4" height="4" fill="#c77dff" class="twinkle-b" />
 </svg>
