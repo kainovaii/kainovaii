@@ -1,0 +1,119 @@
+<svg width="854" height="200" viewBox="0 0 854 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    
+    <g id="rise-sparkle">
+      <rect x="4" y="0" width="4" height="12" fill="#e0aaff" />
+      <rect x="0" y="4" width="12" height="4" fill="#e0aaff" />
+      <rect x="4" y="4" width="4" height="4" fill="#ffffff" />
+    </g>
+
+    
+    <g id="rise-pixel">
+      <rect x="0" y="0" width="4" height="4" fill="#c77dff" />
+      <rect x="4" y="0" width="4" height="4" fill="#ffffff" />
+    </g>
+  </defs>
+
+  <style>
+    @keyframes float-up-slow {
+      0% {
+        transform: translateY(16px);
+        opacity: 0;
+      }
+      20% {
+        opacity: 1;
+      }
+      80% {
+        opacity: 0.9;
+      }
+      100% {
+        transform: translateY(-78px);
+        opacity: 0;
+      }
+    }
+
+    @keyframes float-up-mid {
+      0% {
+        transform: translateY(20px);
+        opacity: 0;
+      }
+      25% {
+        opacity: 0.85;
+      }
+      85% {
+        opacity: 0.7;
+      }
+      100% {
+        transform: translateY(-64px);
+        opacity: 0;
+      }
+    }
+
+    .rise-1 {
+      animation: float-up-slow 7s steps(24, end) infinite;
+    }
+    .rise-2 {
+      animation: float-up-slow 8.5s steps(28, end) infinite -2.5s;
+    }
+    .rise-3 {
+      animation: float-up-slow 6.2s steps(20, end) infinite -4.2s;
+    }
+    .rise-p1 {
+      animation: float-up-mid 5.5s steps(18, end) infinite -1s;
+    }
+    .rise-p2 {
+      animation: float-up-mid 6.8s steps(22, end) infinite -3.3s;
+    }
+  </style>
+
+  
+  <path fill="#140429" d="M0 176 H96 V168 H216 V176 H344 V168 H480 V176 H616 V168 H744 V176 H854 V200 H0 Z" />
+
+  
+  <path fill="#240747" d="M0 160 H72 V152 H168 V160 H288 V152 H408 V168 H528 V152 H664 V160 H776 V152 H854 V176 H744 V168 H616 V176 H480 V168 H344 V176 H216 V168 H96 V176 H0 Z" />
+
+  
+  <path fill="#5a189a" d="M0 144 H56 V136 H144 V144 H256 V136 H368 V144 H488 V136 H608 V144 H720 V136 H808 V144 H854 V152 H776 V160 H664 V152 H528 V168 H408 V152 H288 V160 H168 V152 H72 V160 H0 Z" />
+
+  
+  <path fill="#9d4edd" d="M48 128 H112 V136 H56 V144 H0 V136 H48 Z
+       M200 128 H272 V136 H256 V144 H144 V136 H200 Z
+       M392 128 H456 V136 H368 V144 H392 Z
+       M568 128 H640 V136 H608 V144 H488 V136 H568 Z
+       M736 128 H816 V136 H808 V144 H720 V136 H736 Z" />
+
+  
+  <g fill="#e0aaff">
+    <rect x="48" y="124" width="64" height="4" />
+    <rect x="200" y="124" width="72" height="4" />
+    <rect x="392" y="124" width="64" height="4" />
+    <rect x="568" y="124" width="72" height="4" />
+    <rect x="736" y="124" width="80" height="4" />
+    
+    <rect x="136" y="132" width="16" height="4" fill="#c77dff" />
+    <rect x="312" y="132" width="24" height="4" fill="#c77dff" />
+    <rect x="672" y="132" width="20" height="4" fill="#c77dff" />
+  </g>
+
+  
+  <g class="rise-1">
+    <use href="#rise-sparkle" x="145" y="115" />
+  </g>
+  <g class="rise-2">
+    <use href="#rise-sparkle" x="420" y="118" />
+  </g>
+  <g class="rise-3">
+    <use href="#rise-sparkle" x="695" y="116" />
+  </g>
+
+  <g class="rise-p1">
+    <rect x="82" y="120" width="4" height="4" fill="#ffffff" />
+    <rect x="250" y="122" width="4" height="4" fill="#e0aaff" />
+    <rect x="595" y="120" width="4" height="4" fill="#ffffff" />
+  </g>
+  <g class="rise-p2">
+    <rect x="335" y="124" width="4" height="4" fill="#c77dff" />
+    <rect x="512" y="122" width="4" height="4" fill="#e0aaff" />
+    <rect x="785" y="121" width="4" height="4" fill="#ffffff" />
+  </g>
+</svg>
