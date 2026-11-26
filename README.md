@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/divider.svg" width="760">
+<img src="https://raw.githubusercontent.com/kainovaii/kainovaii/refs/heads/master/divider.svg" width="700">
 
 <br/>
 <br/>
